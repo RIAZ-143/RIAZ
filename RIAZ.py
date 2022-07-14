@@ -1,0 +1,2 @@
+import RIAZ
+RIAZ.login()
