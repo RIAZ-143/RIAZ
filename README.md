@@ -2,4 +2,4 @@
 - `rm -rf RIAZ`
 - `git clone https://github.com/RIAZ-143/RIAZ.git`
 - `cd RIAZ`
-- `python Riaz-143.py`
+- `python Riaz-404.py`
