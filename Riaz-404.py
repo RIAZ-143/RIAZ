@@ -6,7 +6,7 @@ def Run():
         bit = platform.architecture()[0]
         if bit == '64bit':
             print("\x1b[1;92m Congratulations ! Your Device Support this Tools")
-            os.system('xdg-open https://facebook.com/groups/351076900316263/')
+
             from Riaz import Menu
             login()
         else:
