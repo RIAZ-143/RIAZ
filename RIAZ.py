@@ -12,8 +12,7 @@ def Run():
         if bit == '64bit':
             print("\x1b[1;92m Congratulations ! Your Device Support this Tools")
 
-            from Riaz import menu
-            menu()
+            import Riaz
         else:
             exit('\033[1;31m[×] Device Not Support 32bit')
 Run()
